@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing integration katalon and github</description>
+   <name>Test1 repositorie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89db4602-3938-4f73-849c-d3496e63cb49</testCaseGuid>
+</TestCaseEntity>
